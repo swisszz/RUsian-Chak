@@ -1,4 +1,25 @@
 #EXTM3U
+#EXTINF:-1 group-title="🇹🇭TV DIGITAL"" tvg-logo="https://n9.cl/4kmiht",CH7 HD
+https://n9.cl/wjxh7
+
+#EXTINF:-1 group-title="🇹🇭TV DIGITAL"" tvg-logo="https://n9.cl/4kmiht",CH7 bkp
+https://n9.cl/hwooe
+
+#EXTINF:-1 group-title="🇹🇭TV DIGITAL"" tvg-logo="https://n9.cl/9f0xf",CH3 HD
+https://n9.cl/rxvcl
+
+#EXTINF:-1 group-title="🇹🇭TV DIGITAL"" tvg-logo="https://n9.cl/65b58o",Amarin HD
+https://n9.cl/3wi6n
+
+#EXTINF:-1 group-title="🇹🇭TV DIGITAL"" tvg-logo="https://n9.cl/409e5",Thairath HD
+https://n9.cl/m4i70
+
+#EXTINF:-1 group-title="🇹🇭TV DIGITAL"" tvg-logo="https://n9.cl/dguzu",Workpoint HD
+https://n9.cl/uschu
+
+#EXTINF:-1 group-title="🇹🇭TV DIGITAL"" tvg-logo="https://n9.cl/49yt5v",NBT
+https://n9.cl/r3y1if
+
 #EXTINF:-1,Первый канал
 http://ost.fox-tv.fun/0cz90b2tlbj1bc3RiX3Rva2VuXSIsImEiOiJodHRwOi8vc3RyOC5veHR2ZS5saXZlOjk5ODUvUGVydml5a2FuYWwvdGltZXNoaWZ0X2Ficy1bdGltZV9zdGFydF0udHM_dG9rZW49W3N0Yl90b2tlbl0iLCJsIjoiNTI1OWIxMTMiLCJwIjoiNTI1OWIxMTNmZjM0MmUyMCIsImMiOiIxIiwidCI6ImVkNDM1NGE1ODliOTRhNGU0OTQ3NzZkNTA3ODY3NzgwIiwiZCI6IjE0NDE3IiwiciI6IjExNDQxNSIsIm0iOiJ0diJ9eyJ1IjoiaHR0cDovL3N0cjgub3h0dmUubGl2ZTo4MDgwL1BlcnZpeWthbmFsL21wZWd
 
