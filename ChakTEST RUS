@@ -26,6 +26,24 @@ https://n9.cl/h6s98
 #EXTINF:-1 group-title="🇹🇭TV DIGITAL"" tvg-logo="https://n9.cl/q3t23i",Looktung Network FM 
 https://n9.cl/wqz5c
 
+#EXTINF:-1 tvg-name="7xMusic" tvg-id="DeLuxeMusicDance.de" group-title="🎼Musik" tvg-logo="https://n9.cl/28sz5",Pop Star
+https://n9.cl/gx345d
+
+#EXTINF:-1 tvg-name="KroneHit" tvg-id="DeLuxeMusicDance.de" group-title="🎼Musik" tvg-logo="https://bit.ly/3ybR40A",KroneHit TV Music
+https://2cm.es/PYTZ
+
+#EXTINF:-1 tvg-name="DELUXE" tvg-id="DeLuxeMusicDance.de" group-title="🎼Musik" tvg-logo="https://shorturl.at/kY2Kc",DELUXE MUSIC Hit
+https://n9.cl/6sgjpu
+
+#EXTINF:-1 tvg-name="DELUXE MUSIC DANCE" tvg-id="DeLuxeMusicDance.de" group-title="🎼Musik" tvg-logo="https://shorturl.at/vsHG9",DELUXE -DANCE
+https://n9.cl/4hwo3
+
+#EXTINF:-1 tvg-name="Kiss Music" tvg-id="DeLuxeMusicDance.de" group-title="🎼Musik" tvg-logo="https://rb.gy/e0oecw",Kiss  TV Music
+https://n9.cl/e3967
+
+#EXTINF:-1 tvg-name="7xMusic" tvg-id="DeLuxeMusicDance.de" group-title="🎼Musik" tvg-logo="https://n9.cl/hpqq8",Trace Urban HD
+https://n9.cl/8q33i
+
 #EXTM3U
 #EXTINF:-1,Первый HD
 http://de.1usd.tv:80/ch001/mono.m3u8?token=1usdtv_misa777.8vQ0y3l0WbPTsHp6lRtcNRix_6MPE4fhc_XG0L5P95pIOUQ9pGi8YVJHDdgYwMBS
