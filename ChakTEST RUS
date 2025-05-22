@@ -45,6 +45,17 @@ https://n9.cl/e3967
 https://n9.cl/8q33i
 
 #EXTM3U
+#EXTINF:-1 group-title="SPORTS (DADDY LIVE)" tvg-id="TNT.Sports.1.HD.uk" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-kingdom/tnt-sports-1-uk.png?raw=true" tvg-name="TNT Sports 1",TNT Sports 1
+https://josh9456-myproxy.hf.space/watch/aHR0cHM6Ly9uZnNuZXcubmV3a3NvLnJ1L25mcy9wcmVtaXVtMzEvbW9uby5tM3U4.m3u8
+
+#EXTINF:-1 group-title="SPORTS (DADDY LIVE)" tvg-id="TNT.Sports.2.HD.uk" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-kingdom/tnt-sports-2-uk.png?raw=true" tvg-name="TNT Sports 2",TNT Sports 2
+https://josh9456-myproxy.hf.space/watch/aHR0cHM6Ly9uZnNuZXcubmV3a3NvLnJ1L25mcy9wcmVtaXVtMzIvbW9uby5tM3U4.m3u8
+
+#EXTINF:-1 group-title="SPORTS (DADDY LIVE)" tvg-id="TNT.Sports.3.HD.uk" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-kingdom/tnt-sports-3-uk.png?raw=true" tvg-name="TNT Sports 3",TNT Sports 3
+https://josh9456-myproxy.hf.space/watch/aHR0cHM6Ly9uZnNuZXcubmV3a3NvLnJ1L25mcy9wcmVtaXVtMzMvbW9uby5tM3U4.m3u8
+
+#EXTINF:-1 group-title="SPORTS (DADDY LIVE)" tvg-id="TNT.Sports.4.HD.uk" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-kingdom/tnt-sports-4-uk.png?raw=true" tvg-name="TNT Sports 4",TNT Sports 4
+https://josh9456-myproxy.hf.space/watch/aHR0cHM6Ly9uZnNuZXcubmV3a3NvLnJ1L25mcy9wcmVtaXVtMzQvbW9uby5tM3U4.m3u8
 #EXTINF:-1,Первый HD
 http://de.1usd.tv:80/ch001/mono.m3u8?token=1usdtv_misa777.8vQ0y3l0WbPTsHp6lRtcNRix_6MPE4fhc_XG0L5P95pIOUQ9pGi8YVJHDdgYwMBS
 
