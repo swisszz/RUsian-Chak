@@ -1,5 +1,11 @@
 #EXTM3U
 
+#EXTINF:0001 tvg-id="3sat.de" tvg-chno="30" group-title="🇹🇭TV DIGITAL " tvg-logo="https://n9.cl/z3hed",TVB CHAK-HD
+https://n9.cl/rtsog
+
+#EXTINF:0001 tvg-id="3sat.de" tvg-chno="30" group-title="🇹🇭TV DIGITAL " tvg-logo="https://n9.cl/tytp1",GBN CHAK-HD
+https://n9.cl/n3qvs
+
 #EXTINF:-1,Первый HD
 http://de.1usd.tv:80/ch001/mono.m3u8?token=1usdtv_misa777.8vQ0y3l0WbPTsHp6lRtcNRix_6MPE4fhc_XG0L5P95pIOUQ9pGi8YVJHDdgYwMBS
 
